@@ -1,1 +1,1 @@
-echo Hello, I am script number 1
+echo Triggering script1
