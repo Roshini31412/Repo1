@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Hello I am script-2!"
+echo Trigger test
