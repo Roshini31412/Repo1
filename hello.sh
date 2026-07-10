@@ -1,1 +1,2 @@
-echo Triggering script1
+#!/bin/bash
+echo "Hello I am script-2!"
