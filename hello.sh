@@ -1,1 +1,1 @@
-echo Trigger test
+echo Trigger test-1
