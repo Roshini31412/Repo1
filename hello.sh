@@ -1,1 +1,1 @@
-echo Trigger test-1
+echo Jenkins webhook test
