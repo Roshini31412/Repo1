@@ -1,1 +1,1 @@
-echo Jenkins webhook test - 4.
+echo Jenkins webhook test - 4
